@@ -1,0 +1,13 @@
+D:\диана институт\Программирование\home work 5\Home work 5\A\obj\Debug\netcoreapp3.1\A.csprojAssemblyReference.cache
+D:\диана институт\Программирование\home work 5\Home work 5\A\obj\Debug\netcoreapp3.1\A.AssemblyInfoInputs.cache
+D:\диана институт\Программирование\home work 5\Home work 5\A\obj\Debug\netcoreapp3.1\A.AssemblyInfo.cs
+D:\диана институт\Программирование\home work 5\Home work 5\A\obj\Debug\netcoreapp3.1\A.csproj.CoreCompileInputs.cache
+D:\диана институт\Программирование\home work 5\Home work 5\A\bin\Debug\netcoreapp3.1\A.exe
+D:\диана институт\Программирование\home work 5\Home work 5\A\bin\Debug\netcoreapp3.1\A.deps.json
+D:\диана институт\Программирование\home work 5\Home work 5\A\bin\Debug\netcoreapp3.1\A.runtimeconfig.json
+D:\диана институт\Программирование\home work 5\Home work 5\A\bin\Debug\netcoreapp3.1\A.runtimeconfig.dev.json
+D:\диана институт\Программирование\home work 5\Home work 5\A\bin\Debug\netcoreapp3.1\A.dll
+D:\диана институт\Программирование\home work 5\Home work 5\A\bin\Debug\netcoreapp3.1\A.pdb
+D:\диана институт\Программирование\home work 5\Home work 5\A\obj\Debug\netcoreapp3.1\A.dll
+D:\диана институт\Программирование\home work 5\Home work 5\A\obj\Debug\netcoreapp3.1\A.pdb
+D:\диана институт\Программирование\home work 5\Home work 5\A\obj\Debug\netcoreapp3.1\A.genruntimeconfig.cache
